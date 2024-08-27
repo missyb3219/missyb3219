@@ -1,22 +1,21 @@
 <h1>Welome to my page! My name is Melissa <br/><a href="https://github.com/">GRC and </a> <a href="https://www.linkedin.com/in//">Security Enthuiast</a>
 
-<h2>👨‍💻 Development Projects:</h2>
+<h2>Introduction:</h2
+<h1>I am exceedingly interested in utilizing frameworks and technologies to assist in making networks as secure as possible. </h1>
 
-- <b>Power BI</b>
-  - 
-- <b>PowerShell</b>
-  - 
-- <b>Python</b>
+<h2>Objective:</h2
+<h1>My career trajectory has led me to have a profound appreciation for cybersecurity. I am eager to learn from and to impart my knowledge, skills, and abilities in collaboration with a security team. </h1>
 
-<h2>📺 Popular YouTube Videos</h2>
+Cybersecurity Projects:
+-  
+- Splunk
+- Nessus
+  
+<h2>Certifications:</h2>
+- <b>Security Plus Cert. coming soon</b>
 
--<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+-<h2>Social Media:</h2>
 
 
-[twitter]: https://twitter.com
-[linkedin]: https://linkedin.com
+-<h2> Additional Information:</h2>
 
-- 🔭 What am I currently working on as of late? I'm studying for the Secutity Plus exam.
-- 🌱 I’m currently learning that this exam seems to be very comprehensive.
